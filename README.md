@@ -1,4 +1,4 @@
-# Quize-s-creator
+# Quize-s-creator --> High-level architecture
 
 *   **Frontend (client)**: Single-page app (React or Vue). Responsible for authoring UI, game play UI, dashboards, media uploads, responsive layout for projection and student devices.
     
